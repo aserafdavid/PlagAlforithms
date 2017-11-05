@@ -1,0 +1,13 @@
+﻿  main.cpp
+  fileManager.cpp
+c:\users\david-pc\documents\visual studio 2015\projects\alg\alg\filemanager.cpp(52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\david-pc\documents\visual studio 2015\projects\alg\alg\filemanager.cpp(64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\david-pc\documents\visual studio 2015\projects\alg\alg\filemanager.cpp(77): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Logger.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Algorithms.cpp
+  alg.vcxproj -> C:\Users\david-pc\documents\visual studio 2015\Projects\alg\x64\Debug\alg.exe
+  alg.vcxproj -> C:\Users\david-pc\documents\visual studio 2015\Projects\alg\x64\Debug\alg.pdb (Full PDB)
